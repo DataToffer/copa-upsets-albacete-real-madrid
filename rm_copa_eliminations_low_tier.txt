@@ -1,0 +1,8 @@
+season,competition_name,opponent,opponent_tier,opponent_division_name
+1970-71,Copa del Generalísimo,Deportivo,2,Segunda División
+1997-98,Copa del Rey,Deportivo Alavés,2,Segunda División
+2000-01,Copa del Rey,Toledo,3,Segunda B
+2008-09,Copa del Rey,Real Unión,3,Segunda B
+2009-10,Copa del Rey,Alcorcón,3,Segunda B
+2015-16,Copa del Rey,Cádiz,3,Segunda B
+2020-21,Copa del Rey,Alcoyano,3,Segunda B

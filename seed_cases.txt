@@ -1,0 +1,8 @@
+season,competition_name,round,opponent,opponent_tier,opponent_division_name,leg_format,aggregate_score,key_match_score,notes
+1970-71,Copa del Generalísimo,Dieciseisavos,Deportivo,2,Segunda División,unknown,,,Eliminación por rival de 2ª
+1997-98,Copa del Rey,Octavos,Deportivo Alavés,2,Segunda División,unknown,,,Eliminación por rival de 2ª
+2000-01,Copa del Rey,Treintaidosavos,Toledo,3,Segunda B,unknown,,,Upset icónico (2ªB)
+2008-09,Copa del Rey,Dieciseisavos,Real Unión,3,Segunda B,two_legs,6-6 (away goals),4-3 (vuelta),Eliminación vs 2ªB
+2009-10,Copa del Rey,Dieciseisavos,Alcorcón,3,Segunda B,two_legs,4-1,4-0 (ida),Alcorconazo
+2015-16,Copa del Rey,Dieciseisavos,Cádiz,3,Segunda B,two_legs,.,.,Alineación indebida
+2020-21,Copa del Rey,Dieciseisavos,Alcoyano,3,Segunda B,single_leg,,2-1 (prórroga),Eliminación vs 2ªB
